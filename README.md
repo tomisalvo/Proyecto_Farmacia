@@ -1,5 +1,4 @@
 # Proyecto_Farmacia
-Se realizo una app web para el control de stock de una farmacia
-este fue el proyecto final para la carrera de Desarrollador de Software
-La app se encarga de generar alta, baja, modificacion y consulta de produtos y stock de una o varias farmacias.
-se realizo el proyecto mediante Genexus.
+Se realizo una app web para una Farmacia (o cualquier comercio), la cual desarrollo utilizando Genexus.
+A travez de esta aplicaion podemos realizar un Crud de nuestro negocio, sus productos, modificar precios y controlar stock.
+Este proyecto se realizo como entrega final para la aprobacion de la carrera de  "Tecnico en desarrollo de Software"
